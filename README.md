@@ -1,7 +1,7 @@
 # Deep Networks - Predicting pMHC-T-cell interactions of Coronavirus peptides
 
-This repository is the code for my BSc Thesis titled as: Exploration of TCR::pMHC Specificities using High
-Throughput Single Cell Immune Profiling Data. The thesis paper can be read here: https://drive.google.com/file/d/1wyI83oPkGTttH4ecF2CE49NUKEf0L7O6/view?usp=sharing.
+This repository is the code for my BSc Thesis titled as: _Exploration of TCR::pMHC Specificities using High
+Throughput Single Cell Immune Profiling Data_. The thesis paper can be read here: https://drive.google.com/file/d/1wyI83oPkGTttH4ecF2CE49NUKEf0L7O6/view?usp=sharing.
 
 ### Abstract
 With the outbreak of the COVID-19 pandemic, openly accessible databases, such as the ImmuneCODE database, have emerged. The MIRA data sets included in this database contain SARS-CoV-2-specific T cell receptors sequences extracted from human patients. 
